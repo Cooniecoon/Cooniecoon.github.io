@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Win or Learn"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Cooniecoon"
+name                     : "Cooniecoon" # 블로그 맨 밑 이름
 description              : "An amazing website."
 url                      : "https://Cooniecoon.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -127,18 +127,23 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
+
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
+
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Cooniecoon"
+
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
+
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
+
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/cooniecoon/"
