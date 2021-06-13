@@ -146,7 +146,7 @@ footer:
 
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/cooniecoon/"
+      # url: "https://www.instagram.com/cooniecoon/"
 
 
 # Reading Files
@@ -250,9 +250,11 @@ whitelist:
 category_archive:
   type: liquid
   path: /categories/
+
 tag_archive:
   type: liquid
   path: /tags/
+  
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
